@@ -1,9 +1,8 @@
-Hello there!
+Hello peasant!
 
-I'm SecretAgent55 a coder for AIA.
+Me = mistysloth
 Apart from coding tools the get intel from penguins I like to make websites.
 
-Other sites: 
-Chess.com: SecretAgent55
+Discord: misty#1417
 
-![SecretAgent55's GitHub stats](https://github-readme-stats.vercel.app/api?username=SecretAgent55&count_private=true)
+![mistysloth's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistysloth&count_private=true)
