@@ -1,8 +1,3 @@
-Hello peasant!
+sloths can code. we are not lazy. do not underestimate us.
 
-Me = mistysloth
-Apart from coding tools the get intel from penguins I like to make websites.
-
-Discord: `mistysloth#4005`
-
-![mistysloth's GitHub stats](https://github-readme-stats.vercel.app/api?username=mistysloth&count_private=true)
+discord: `mistysloth#4005`
